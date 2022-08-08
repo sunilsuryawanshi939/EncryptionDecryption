@@ -1,0 +1,11 @@
+photocrypt==0.0.2
+Pillow==8.0.1
+pycryptodome==3.9.9
+pycryptodomex==3.9.9
+PyQt5==5.15.2
+PyQt5-sip==12.8.1
+streamlit
+scipy
+matplotlib
+sounddevice
+libportaudio2
